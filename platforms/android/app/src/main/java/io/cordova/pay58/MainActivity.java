@@ -17,7 +17,7 @@
        under the License.
  */
 
-package io.cordova.58pay;
+package io.cordova.pay58;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

@@ -52,7 +52,7 @@ ADDED from C:\Users\JAVION\Documents\vue\cordova-webview-58pay\platforms\android
 		ADDED from C:\Users\JAVION\Documents\vue\cordova-webview-58pay\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
 	android:icon
 		ADDED from C:\Users\JAVION\Documents\vue\cordova-webview-58pay\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
-activity#io.cordova.58pay.MainActivity
+activity#io.cordova.pay58.MainActivity
 ADDED from C:\Users\JAVION\Documents\vue\cordova-webview-58pay\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
 	android:label
 		ADDED from C:\Users\JAVION\Documents\vue\cordova-webview-58pay\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
